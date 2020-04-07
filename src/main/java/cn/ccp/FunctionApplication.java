@@ -8,9 +8,6 @@ import org.apache.poi.ss.usermodel.CellType;
 
 import java.io.IOException;
 
-/**
- * Hello world!
- */
 public class FunctionApplication {
     public static void main(String[] args) throws IOException {
         String xlsPath = "";//xls文件路径 eg:C:\Users\CCPENG\Desktop\印刷聚合二维码 (扫呗智慧零售2000个聚合码_20200225).xls
